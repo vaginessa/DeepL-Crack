@@ -37,7 +37,7 @@
     "@types/random-useragent": "^0.3.1",
     "babel-plugin-transform-imports": "^2.0.0",
     "esbuild": "^0.16.2",
-    "rollup": "3.7.1-0",
+    "rollup": "3.29.5",
     "rollup-plugin-esbuild": "^5.0.0",
     "rollup-plugin-worker": "^3.0.4"
   }
